@@ -6,6 +6,17 @@ assignees: iTanken
 
 ---
 
+## Environment 环境
+
+<!-- Please replace X with the actual value 请将 X 替换为实际值 -->
+
+- [**`oracle database`**](https://endoflife.date/oracle-database) veresion: `XXx`
+- [**`gorm-oracle`**](https://github.com/godoes/gorm-oracle/tags) version：`vX.X.X`
+- [`go-gorm`](https://github.com/go-gorm/gorm/tags) version：`vX.X.X`
+- [`go`](https://github.com/golang/go/tags) version：`goX.X.X`
+- `os`: `XXX`
+- `arch`: `XXX`
+
 <!-- DON'T CHANGE THE TEMPLATE 请勿修改模板 -->
 
 ## Your Question 你的问题
