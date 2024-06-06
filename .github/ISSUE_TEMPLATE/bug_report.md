@@ -12,9 +12,21 @@ assignees: iTanken
 
 <!-- Please replace X with the actual value 请将 X 替换为实际值 -->
 
+<!-- Oracle
+
 - [**`oracle database`**](https://endoflife.date/oracle-database) veresion: `XXx`
 - [**`gorm-oracle`**](https://github.com/godoes/gorm-oracle/tags) version：`vX.X.X`
 - [`go-gorm`](https://github.com/go-gorm/gorm/tags) version：`vX.X.X`
+
+-->
+<!-- DM
+
+- [**`dameng database`**](https://eco.dameng.com/download/) veresion: `XXx`
+- [**`gorm-dameng`**](https://github.com/godoes/gorm-dameng/tags) version：`vX.X.X`
+- [`go-gorm`](https://github.com/go-gorm/gorm/tags) version：`vX.X.X`
+
+-->
+
 - [`go`](https://github.com/golang/go/tags) version：`goX.X.X`
 - `os`: `XXX`
 - `arch`: `XXX`
