@@ -8,7 +8,7 @@ For significant changes, please open an issue to make an agreement on an impleme
 
 - [ ] Do only one thing. 只做了一件事。
 - [ ] Non breaking API changes. 非破坏性 API 变更。
-- [ ] Tested. 以通过测试。
+- [ ] Tested. 已通过测试。<!-- 请尽量添加对应的单元测试，以便更快验证变更代码的正确性，提高 review 效率。-->
 
 ### What did this pull request do? 这个 PR 做了什么？
 
